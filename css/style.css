@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'abril_fatfaceregular';
+    src: url('../font/abrilfatface-regular-webfont.woff2') format('woff2'),
+         url('../font/abrilfatface-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body, html {
+  font-family: 'abril_fatfaceregular';
+}
+
+h1, h2 {
+  margin: 0 0 0 0;
+}
+
+.white-bg {
+  height: 250px;
+  background: white;
+}
+
+.thirty-black {
+  font-size: 30px;
+  color: black;
+  text-transform: uppercase;
+}
+
+.one-twenty-black {
+  font-size: 120px;
+  color: black;
+  font-weight: bolder;
+}
+
+#try-to {
+  margin: 0 0 -20px 50px;
+
+}
+
+#mind {
+  margin: 0 0 0 50px;
+}
+
+#possibilities {
+  margin: -20px 0 0 170px;
+}
+
+#top-amp {
+  color: black;
+  font-size: 120px;
+  font-weight: bolder;
+  margin: 0 0 0 50px;
+}
+/**** black background ****/
+
+#white-space {
+  height: 50px;
+}
+
+#bottom-amp {
+  color: white;
+  font-size: 120px;
+  font-weight: bolder;
+  margin: -10px 0 0 50px;
+}
+
+.black-bg {
+  height: 360px;
+  background: black;
+}
+
+.thirty-white {
+  font-size: 30px;
+  color: white;
+}
+
+.one-twenty-white {
+  font-size: 120px;
+  color: white;
+  font-weight: bolder;
+}
+
+#your {
+  margin: 0 0 0 50px;
+  text-transform: uppercase;
+}
+
+#mouth {
+  margin: 0 0 0 50px;
+  float: left;
+}
+
+#on-matters {
+  font-size: 36px;
+  width: 200px;
+  float: left;
+  line-height: 30px;
+  margin: 24px 0 0 10px;
+}
