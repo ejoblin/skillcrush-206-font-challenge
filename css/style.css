@@ -7,33 +7,33 @@
 
 }
 
-body, html {
-  font-family: 'abril_fatfaceregular';
+html {
+  font-family: 'abrilfatface-regular';
 }
 
 h1, h2 {
   margin: 0 0 0 0;
 }
 
-.white-bg {
-  height: 250px;
+.white-background {
+  height: 350px;
   background: white;
 }
 
-.thirty-black {
+.small-black-text {
   font-size: 30px;
   color: black;
   text-transform: uppercase;
 }
 
-.one-twenty-black {
+.large-black-text {
   font-size: 120px;
   color: black;
   font-weight: bolder;
 }
 
 #try-to {
-  margin: 0 0 -20px 50px;
+  margin: 80px 0 -30px 50px;
 
 }
 
@@ -42,7 +42,7 @@ h1, h2 {
 }
 
 #possibilities {
-  margin: -20px 0 0 170px;
+  margin: -30px 0 0 170px;
 }
 
 #top-amp {
@@ -51,30 +51,27 @@ h1, h2 {
   font-weight: bolder;
   margin: 0 0 0 50px;
 }
-/**** black background ****/
 
-#white-space {
-  height: 50px;
-}
+/**** black background ****/
 
 #bottom-amp {
   color: white;
   font-size: 120px;
   font-weight: bolder;
-  margin: -10px 0 0 50px;
+  margin: -20px 0 0 50px;
 }
 
-.black-bg {
+.black-background {
   height: 360px;
   background: black;
 }
 
-.thirty-white {
-  font-size: 30px;
+.small-white-text {
+  font-size: 36px;
   color: white;
 }
 
-.one-twenty-white {
+.large-white-text {
   font-size: 120px;
   color: white;
   font-weight: bolder;
@@ -86,14 +83,15 @@ h1, h2 {
 }
 
 #mouth {
-  margin: 0 0 0 50px;
+  margin: -40px 0 0 50px;
   float: left;
 }
 
 #on-matters {
   font-size: 36px;
-  width: 200px;
+  width: 260px;
   float: left;
-  line-height: 30px;
-  margin: 24px 0 0 10px;
+  line-height: 36px;
+  margin: -15px 0 0 10px;
+  font-weight: lighter;
 }
